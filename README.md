@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Allen Alfred Beato!
 
-Welcome to my GitHub profile! I'm an **aspiring Software Developer** and a recent graduate with a **Bachelor of Science in Information Technology**. This is where I share my personal and academic projects, learn new technologies, and continue growing as a developer.
+Welcome to my GitHub profile! I'm an **Software Developer** and a recent graduate with a **Bachelor of Science in Information Technology**. This is where I share my personal and academic projects, learn new technologies, and continue growing as a developer.
 
 ## 💡 About Me
 - 🎓 Fresh graduate passionate about backend development and building real-world solutions
